@@ -1,10 +1,10 @@
 .footer {
-    height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #282c34;
     color: #fff;
+    padding: 30px;
 }
 
 .footer span {
